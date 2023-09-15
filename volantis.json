@@ -1,0 +1,13 @@
+{
+    "name": "volantis/lightcore",
+    "type": "theme",
+    "description": "A simple light theme for AHK apps.",
+    "website": "https://volantis.dev",
+    "authors": [{
+            "name": "Ben McClure",
+            "email": "ben@volantisdev.com"
+    }],
+    "require": {
+        "volantis/material-icons": "*"
+    }
+}
